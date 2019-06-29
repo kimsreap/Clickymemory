@@ -22,9 +22,6 @@ const App = _ => {
     <br></br>
     <Paper>
         <Grid container wrap="nowrap" spacing={2}>
-          <Grid item>
-            <Avatar>XX</Avatar>
-          </Grid>
           <Grid item xs zeroMinWidth>
             <Typography noWrap>
             <h1>Clicky Game!</h1>
